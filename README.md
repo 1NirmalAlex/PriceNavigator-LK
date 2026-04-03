@@ -47,8 +47,8 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
 
 4. **Run the application:**
-  ```bash
-  streamlit run app.py
+
+      # streamlit run app.py 
 
 
 📁 Project Structure
@@ -56,8 +56,6 @@ To run this project locally, follow these steps:
 ├── phone_market_data.csv    # Scraped market dataset
 ├── requirements.txt         # List of Python dependencies
 └── README.md                # Project documentation
-
-
 
 
 👨‍💻 Developed By
