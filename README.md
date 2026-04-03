@@ -59,6 +59,10 @@ To run this project locally, follow these steps:
 
 
 ![Dashboard Screenshot]<img width="1919" height="1079" alt="Screenshot 2026-04-03 112813" src="https://github.com/user-attachments/assets/2c13da4c-8fbb-4d81-a92c-c5d3cb58f408" />
+<img width="1605" height="1075" alt="Screenshot 2026-04-03 112830" src="https://github.com/user-attachments/assets/735a43c7-3639-4f6a-842a-038012a15a32" />
+<img width="1602" height="1072" alt="Screenshot 2026-04-03 112841" src="https://github.com/user-attachments/assets/250b5f21-f5b6-458e-856e-c2cb69e1a2a8" />
+
+
 
 👨‍💻 Developed By
 Umesh Alexander AI & Python Developer / Data Scientist
