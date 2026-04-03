@@ -58,6 +58,8 @@ To run this project locally, follow these steps:
 └── README.md                # Project documentation
 
 
+![Dashboard Screenshot]<img width="1919" height="1079" alt="Screenshot 2026-04-03 112813" src="https://github.com/user-attachments/assets/2c13da4c-8fbb-4d81-a92c-c5d3cb58f408" />
+
 👨‍💻 Developed By
 Umesh Alexander AI & Python Developer / Data Scientist
 
